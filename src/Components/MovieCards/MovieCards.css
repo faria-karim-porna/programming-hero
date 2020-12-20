@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.movieCardsImages{
+    height : 300px;
+    position: relative;
+    width: 100%;
+    border: none !important;
+}
+.movieCardsImages{
+    border: none !important;
+}
+.link:hover{
+    text-decoration: none !important;
+}
+
+
